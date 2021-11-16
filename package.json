@@ -4,7 +4,7 @@
   "description": "- serverless start\r - websocket-chat",
   "main": "handler.js",
   "dependencies": {
-    "aws-sdk": "^2.555.0",
+    "aws-sdk": "^2.814.0",
     "serverless-websockets-plugin": "^1.0.0"
   },
   "devDependencies": {},
